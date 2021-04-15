@@ -1,4 +1,4 @@
-![bookavo logo](http://url/to/img.png)
+![bookavo logo](./src/bookavologosmall.png)
 
 ## The Hand - School of Code
 
@@ -10,7 +10,7 @@ Our final project for School of Code involved creating a full-stack application 
 
 ## How To Run Our App
 
-![landing page](http://url/to/img.png)
+![landing page](./src/bookavoss.png)
 
 Firstly, you should run our backend 
 '' dotnet watch run
@@ -22,13 +22,11 @@ Following this you should run our frontend
 Or, alternatively visit the link to our app here https://bookavo.netlify.app
 
 To use the restaurant login, and see what our restaurants would see;
-Restaurant Name       	   Email	             Password
 				
-Adrian's Dining  	info@adriansdining.com    	bookavo1234!	
-Friendly Fire	    manager@friendlyfire.com	bookavo1234!	
-Bayt Al Yemani	    bayt@alyemani.com	        bookavo1234!	
-Five Rivers	        fiverivers@fiverivers.com	bookavo1234!
-
+    Adrian's Dining   email: info@adriansdining.com      password: bookavo1234!
+    Friendly Fire     email: manager@friendlyfire.com    password: bookavo1234!
+    Bayt Al Yemani    email: bayt@alyemani.com           password: bookavo1234!		
+    Five Rivers       email: fiverivers@fiverivers.com   password: bookavo1234!	
 ## Contributions
 
 As this project is a work in progress, you can expect to see regular changes. The Hand will continue to work on this project as we develop our skills, and as we decide where Bookavo could improve.
