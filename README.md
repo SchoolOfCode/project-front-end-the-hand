@@ -21,7 +21,7 @@ Following this you should run our frontend
 
 Or, alternatively visit the link to our app here https://bookavo.netlify.app
 
-To use the restaurant login, and see what our restaurants would see;
+To use the restaurant login and see what our restaurants would see, please use the credentials below:
 				
     Adrian's Dining   email: info@adriansdining.com      password: bookavo1234!
     Friendly Fire     email: manager@friendlyfire.com    password: bookavo1234!
